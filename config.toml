@@ -10,13 +10,14 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
   description = "Documentation for Hugo Learn Theme"
   author = "Mathieu Cornic"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   themeVariant = "green"
+  editURL = "https://github.com/realdew/hugo-test/tree/master/content/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
