@@ -16,4 +16,4 @@ Warning {{% notice warning %}} A warning disclaimer {{% /notice %}} renders as</
 For instance, in this current site, the editURL variable is used in config.toml
 [params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.
 `editURL` Value : {{% siteparam &amp;quot;editURL&amp;quot; %}} is displayed as
-editURL Value : https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/</description></item></channel></rss>
+editURL Value : https://github.com/realdew/hugo-test/tree/master/content/</description></item></channel></rss>
